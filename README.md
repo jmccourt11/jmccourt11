@@ -12,7 +12,7 @@ I’m a physicist and postdoctoral researcher at Argonne National Laboratory, wo
 
 ### Connect with Me  
 - [Me @ Argonne National Laboratory](https://www.anl.gov/profile/joseph-mccourt) 
-- [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png.original.png) [Let's Connect!](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)  
+- [![LinkedIn](https://github.com/user-attachments/assets/aa0a2ff7-fdff-412b-bc65-fcf4e5ed6845) [Let's Connect!](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)  
 - [mccourtphysics.com](http://mccourtphysics.com)
 - 📧 mccourt.joseph@gmail.com  
 
