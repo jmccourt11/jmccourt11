@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph McCourt! 👋  
+# Hi there, I'm Joseph (Joey) McCourt! 👋  
 
 ### 🧪 About Me  
 I’m a physicist and postdoctoral researcher at Argonne National Laboratory, working at the Advanced Photon Source (APS). My research focuses on **X-ray scattering, diffraction, and imaging**, leveraging high-brightness synchrotron sources to study the **assembly and characterization of nanomaterials**.  
