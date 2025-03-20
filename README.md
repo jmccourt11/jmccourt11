@@ -7,11 +7,12 @@ I’m a physicist and postdoctoral researcher at Argonne National Laboratory, wo
 - **X-ray Scattering & Imaging** – Exploring reciprocal (Fourier) space characterization
 - **Nanomaterials** – Understanding the collective properties and structure of nano-scale assemblies  
 - **AI for Scientific Discovery** – Applying machine learning to analyze, model, and characterize materials   
-- **Self-Assembly & Molecular Dynamics Simulations** – Studying soft matter emergent properties and dynamics 
+- **Self-Assembly & Molecular Dynamics Simulations** – Studying soft matter emergent properties and dynamics
+-  **AI Automation:** Using AI-powered tools to boost productivity and creativity.
 
 ### 📫 Connect with Me  
 - 🏢 [Me @ Argonne National Laboratory](https://www.anl.gov/profile/joseph-mccourt) 
-- [![Let's Connect!](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mccourt-4a9327124/) **[Let's Connect!](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)**  
 - 🔗 [mccourtphysics](http://mccourtphysics.com)
 - 📧 mccourt.joseph@gmail.com  
 
