@@ -1,9 +1,9 @@
 # Hi there, I'm Joseph (Joey) McCourt! 👋  
 
-### 🧪 About Me  
+### About Me  
 I’m a physicist and postdoctoral researcher at Argonne National Laboratory, working at the Advanced Photon Source (APS). My research focuses on **X-ray scattering, diffraction, and imaging**, leveraging high-brightness synchrotron sources to study the **assembly and characterization of nanomaterials**.  
 
-### 🔬 Interests
+### Interests
 - **X-ray Scattering & Imaging** – Exploring reciprocal (Fourier) space characterization
 - **Nanomaterials** – Understanding the collective properties and structure of nano-scale assemblies  
 - **AI for Scientific Discovery** – Applying machine learning to analyze, model, and characterize materials   
@@ -11,9 +11,9 @@ I’m a physicist and postdoctoral researcher at Argonne National Laboratory, wo
 -  **AI Automation:** Using AI-powered tools to boost productivity and creativity.
 
 ### 📫 Connect with Me  
-- 🏢 [Me @ Argonne National Laboratory](https://www.anl.gov/profile/joseph-mccourt) 
+- [Me @ Argonne National Laboratory](https://www.anl.gov/profile/joseph-mccourt) 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mccourt-4a9327124/) [Let's Connect!](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)  
-- 🔗 [mccourtphysics](http://mccourtphysics.com)
+- [mccourtphysics](http://mccourtphysics.com)
 - 📧 mccourt.joseph@gmail.com  
 
 <!---
