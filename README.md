@@ -13,8 +13,8 @@ I’m a physicist and postdoctoral researcher at Argonne National Laboratory, wo
 ### Connect with Me  
 - [Me @ Argonne National Laboratory](https://www.anl.gov/profile/joseph-mccourt) 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mccourt-4a9327124/)
-- [mccourtphysics.com](https://mccourtphysics.com)
-- 📧 mccourt.joseph@gmail.com  
+- [mccourtphysics.com](https://www.mccourtphysics.com)
+- 📧 mccourt.joseph@gmail.com
 
 <!---
 jmccourt11/jmccourt11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
